@@ -1,0 +1,52 @@
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon.csprojAssemblyReference.cache
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\App.g.cs
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon_MarkupCompile.cache
+C:\Users\Harshal\Desktop\Gideon\Gideon\bin\Debug\Gideon.exe.config
+C:\Users\Harshal\Desktop\Gideon\Gideon\bin\Debug\Gideon.exe
+C:\Users\Harshal\Desktop\Gideon\Gideon\bin\Debug\Gideon.pdb
+C:\Users\Harshal\Desktop\Gideon\Gideon\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Harshal\Desktop\Gideon\Gideon\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon_MarkupCompile.lref
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\MainWindow.baml
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon.g.resources
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon.Properties.Resources.resources
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon.csproj.GenerateResource.cache
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon.csproj.CopyComplete
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon.exe
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Gideon.pdb
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Media\MediaPlayerUI.g.cs
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\Media\MediaPlayerUI.baml
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\WeatherForecast\WeatherForecastUI.g.cs
+C:\Users\Harshal\Desktop\Gideon\Gideon\obj\Debug\WeatherForecast\WeatherForecastUI.baml
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\bin\Debug\Gideon.exe.config
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\bin\Debug\Gideon.exe
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\bin\Debug\Gideon.pdb
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon.csprojAssemblyReference.cache
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Media\MediaPlayerUI.g.cs
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\WeatherForecast\WeatherForecastUI.g.cs
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\App.g.cs
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon_MarkupCompile.cache
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon_MarkupCompile.lref
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\MainWindow.baml
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Media\MediaPlayerUI.baml
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\WeatherForecast\WeatherForecastUI.baml
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon.g.resources
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon.Properties.Resources.resources
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon.csproj.GenerateResource.cache
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon.csproj.CopyComplete
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon.exe
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gideon.pdb
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\bin\Debug\NewsAPI.dll
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\bin\Debug\NewsAPI.xml
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\News\NewsUI.g.cs
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\News\NewsUI.baml
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gallery\GalleryUI.g.cs
+C:\Users\Harshal\Desktop\Gideon - Copy\Gideon\obj\Debug\Gallery\GalleryUI.baml

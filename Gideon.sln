@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gideon", "Gideon\Gideon.csproj", "{453B1C0B-D0E0-4BE1-9105-9F88B6B71D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{453B1C0B-D0E0-4BE1-9105-9F88B6B71D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453B1C0B-D0E0-4BE1-9105-9F88B6B71D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453B1C0B-D0E0-4BE1-9105-9F88B6B71D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453B1C0B-D0E0-4BE1-9105-9F88B6B71D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D49E869E-C208-488D-A7F5-5B503ABF3AD6}
+	EndGlobalSection
+EndGlobal

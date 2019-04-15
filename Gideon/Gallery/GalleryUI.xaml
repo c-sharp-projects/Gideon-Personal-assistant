@@ -1,0 +1,97 @@
+﻿<Window x:Class="Gideon.Gallery.GalleryUserInterface"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gideon.Gallery"
+        mc:Ignorable="d"
+        Title="Gallery" WindowState="Maximized" WindowStyle="None" KeyDown="KeyboardListener">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Column="0">
+                <ListBox Name="Thumbnails" Uid="Outer_List" HorizontalContentAlignment="Center" SelectionChanged="ListBoxListener" SelectionMode="Single">
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <UniformGrid Columns="1" />
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="0,2"  Width="180">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <Grid Grid.Row="0">
+                                    <Image  Source="{Binding ImageData}" Height="150" Width="150"/>
+                                </Grid>
+                                <Grid Grid.Row="1">
+                                    <TextBlock Text="{Binding Title}" FontFamily="Yu Gothic UI Semibold" FontSize="14"  HorizontalAlignment="Center" TextWrapping="Wrap" />
+                                </Grid>
+
+
+                            </Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </Grid>
+
+
+            <Grid Name="Images" Grid.Column="1">
+                <ListBox Name="ImageList" Uid="Internal_List"  HorizontalContentAlignment="Center" SelectionChanged="ListBoxListener" SelectionMode="Single">
+                    <ListBox.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <UniformGrid Columns="5" />
+                        </ItemsPanelTemplate>
+                    </ListBox.ItemsPanel>
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="4,4,4,4"  Width="200" Height="200">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <Grid Grid.Row="0">
+                                    <Image  Source="{Binding ImageData}" Height="150" Width="150"/>
+                                </Grid>
+
+                                <Grid Grid.Row="1">
+                                    <TextBlock Text="{Binding Title}" FontFamily="Yu Gothic UI Semibold" FontSize="14"  HorizontalAlignment="Center" TextWrapping="Wrap" />
+                                </Grid>
+
+                                <Grid Visibility="Hidden">
+                                    <TextBlock Text="{Binding Path}" />
+                                </Grid>
+
+                            </Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </Grid>
+        </Grid>
+
+        <Grid Name="ImgScreen"  Visibility="Hidden" Height="auto" Width="auto" Background="Black">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Image Name="imgsrc"  Height="auto" Width="auto"/>
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</Window>

@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Gideon.Alarm.Alaram" Collapsed="true">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAIAAAABAABEEAgQAAAEAAAAAAAAABAAiEAAAEAA=</HashCode>
+      <FileName>Alarm\Alaram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.App" Collapsed="true">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.GideonNews" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEgAEAAgAAAgAAAAAAAABAgCQAAAAABgAA=</HashCode>
+      <FileName>GideonNews.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Grammars" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAQAAgAEAAAAAAgAQAAAAAAAAAEAAAgBAAAAAAA=</HashCode>
+      <FileName>Grammars\Grammars.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.GideonBase" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAARJAACACAEggAAAoAAACAAAAAAoAGAAIAAIAEFAAI=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Gideon.ModulesHandler" Collapsed="true">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAoAAAIAAQAAAAAAAAABgBABABAAAAAA=</HashCode>
+      <FileName>ModulesHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.GideonPath" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>ResourcePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.MediaPath" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBgAAAAAAAAAAIAAAAAAAAAAAAIAEAAgAAAAAAAAAA=</HashCode>
+      <FileName>ResourcePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.WeatherPath" Collapsed="true">
+    <Position X="2" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAQAAAAAAAAAQDAAIAAAAIAIAQAAAAAAAAiAA=</HashCode>
+      <FileName>ResourcePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.NewsPath" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEEAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResourcePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.AlarmPath" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ResourcePath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Weather">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAFAMgAAAQJAAAACYAAACAAAAIAAQABAgAEEAA=</HashCode>
+      <FileName>Weather.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Location" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQQAAAAAAIAAIIGBASCBAQEAIAAAQCAAQGAgAEFkA=</HashCode>
+      <FileName>Weather.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Gallery.GalleryUI" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAABAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Gallery\Gallery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Gallery.Image" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gallery\Gallery.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Gallery.GalleryUserInterface" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQQAAACAAAAAAAAAABAAAAhAAAAAAAgASACAAAAAAA=</HashCode>
+      <FileName>Gallery\GalleryUI.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Gideon.Gallery.ImageInfo" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEIAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gallery\ImageInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Media.MediaPlayer" Collapsed="true">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAEAAEAEAAACAAAAAAAAAAAAAAAAABAg=</HashCode>
+      <FileName>Media\MediaPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Media.MediaPlayerUI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAIQIAAAAEBAAAgAICCAAQIAAAAAgABAQAQyACIA=</HashCode>
+      <FileName>Media\MediaPlayerUI.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Gideon.Media.Song">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Media\MediaPlayerUI.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Media.SearchFiles">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAgAAACAAAAAAAAAAAAAAgACACAAAAAAA=</HashCode>
+      <FileName>Media\SearchFiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.News.NewsInfo" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEgAEAAgAAAAIAAAAAAAAAACAAAAAAAgAA=</HashCode>
+      <FileName>News\NewsInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.News.NewsUI" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAgAEAAAAAAAApAQAAEAABAAA=</HashCode>
+      <FileName>News\NewsUI.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Gideon.PcInfo.PcInformation" Collapsed="true">
+    <Position X="9" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAICEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>PcInfo\PcInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.PcInfo.Information" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>PcInfo\PcInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Properties.Resources" Collapsed="true">
+    <Position X="12.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Properties.Settings">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.Remainder.RemainderUI" Collapsed="true">
+    <Position X="10.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGAAAAAAAAAACAAACAIAICAAQAAAAIAAgAAQABABA=</HashCode>
+      <FileName>Remainder\Remainder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.WeatherForecast.Location" Collapsed="true">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQQAAAAAAIAAIIGBASCBAQEAIAAAQCAAQGAgAEFkA=</HashCode>
+      <FileName>WeatherForecast\Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gideon.WeatherForecast.WeatherForecastUI" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAgAAAAQAAgEAAAAAAAgAA=</HashCode>
+      <FileName>WeatherForecast\WeatherForecastUI.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Gideon.WeatherForecast.WeatherInformation">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAIgAAAQAAAAACAAAACAAAAIAAABAAgAAEAA=</HashCode>
+      <FileName>WeatherForecast\WeatherInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Window" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Gideon.Codes.MediaCodes" Collapsed="true">
+    <Position X="5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEgAAIAgAAACIAAAAAAAAAABAAAoAIAAAAAAgA=</HashCode>
+      <FileName>Codes\MediaPlayerCodes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Gideon.Codes.Modules" Collapsed="true">
+    <Position X="3.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQAAAAAAAAAAIAAAAABAAAAAAAAgAAABAgABEAAA=</HashCode>
+      <FileName>Codes\ModulesHandlerCodes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
